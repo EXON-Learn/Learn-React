@@ -6,3 +6,6 @@ create react app 실습 환경 구축하기 <br>
 
 ## 실행
 npm start
+
+## ts
+npx create-react-app app --template typescript
